@@ -1,3 +1,3 @@
 # DataExamples
 
-Data sets miscelanea for DSChEI course.
+Data sets miscelanea for DSChE course.
