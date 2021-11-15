@@ -12,6 +12,6 @@ Each dataframe contains 55 columns:
 
 4. Columns 4 to 55 contain the process variables; the column names retain the original variable names.
 
-This data and this documentation is copied from the original source. Here we work only with two data frames. To obtain the test set, please contact the mantainer: [jaime.mosquera.g@gmail.com](jaime.mosquera.g@gmail.com)
+This data and this documentation is copied from the original source. Here we work only with two data frames. To obtain the test set (`TEP_Faulty_Testing.RData`), please contact the mantainer: [jaime.mosquera.g@gmail.com](jaime.mosquera.g@gmail.com)
 
 Source: https://www.kaggle.com/averkij/tennessee-eastman-process-simulation-dataset/activity
